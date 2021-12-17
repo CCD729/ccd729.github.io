@@ -8,6 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Page Under Construction
-
+Current page is under construction.
 ======
