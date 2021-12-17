@@ -16,7 +16,7 @@ This is the description of Project 1. A test picture is attached. This paragraph
 
 This is the description of Project 2. A testing embed video is attached. This paragraph is to test text and video alignment before filling in real content.
 
-<iframe src="<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 560px; height: 315px"></iframe>
+<iframe src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 560px; height: 315px"></iframe>
 
 ## Project 3
 
