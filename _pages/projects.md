@@ -7,14 +7,6 @@ author_profile: true
 {% include base_path %}
 
 
----
-title: "Projects"
-permalink: /projects/
-author_profile: true
----
-
-{% include base_path %}
-
 ## Project 1 
 
 This is the description of Project 1. A test picture is attached. This paragraph is to test text and image alignment before filling in real content.
