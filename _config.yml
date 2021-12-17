@@ -10,10 +10,10 @@ locale                   : "en-US"
 title                    : "Erwang Li"
 title_separator          : "-"
 name                     : &name "Erwang Li"
-description              : &description "Game Developer/Designer, UC Santa Cruz class of 2020 graduate"
+description              : &description "Game Developer/Designer, UC Santa Cruz class of 2020 Computer Science: Computer Game Design graduate"
 url                      : https://ccd729.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ccd729/ccd729.github.io"
+repository               : "CCD729.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Erwang Li"
   avatar           : "avatar.png"
-  bio              : "Game developer/designer, UC Santa Cruz class of 2020 graduate, passionate about game technologies and immersive interaction design"
+  bio              : "Game developer/designer, UC Santa Cruz class of 2020 Computer Science: Computer Game Design graduate, passionate about game technologies and immersive interaction design"
   location         : "Santa Cruz, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  itch.io               : "https://ccd729.itch.io"
 
 
 # Reading Files
