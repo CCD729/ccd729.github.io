@@ -29,7 +29,7 @@ _Game awarded Capstone Production Award and Peer Choice Award (Overall Excellenc
 
 ## [Skyward Odyssey](https://hpaing.itch.io/skyward-odyssey)
 
-_This is a placeholder for Skyward Odyssey Video/Images_
+<div style="max-width: 560px"><iframe src="https://www.youtube.com/embed/q5_rguiviks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 An endless sidescroller where the player accompanies a ninja on his unending journey to the end of the world. The player navigates through the skies, leaping across clouds and evading inky threats while exploring temples to piece together the story of the ninja's odyssey.
 <br>
@@ -39,7 +39,7 @@ _Game nominated and showcased at UCSC Games Showcase 2019._
 
 ## Smart-Tuney Karting
 
-_This is a placeholder for Smart-Tuney Karting Video/Images_
+<div style="max-width: 560px"><iframe src="https://www.youtube.com/embed/LeObdbd_d5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 An algorithmic soundtrack generator with goal-oriented action planner that responds to user input and chooses a BGM combination for a Unity Learn Microgame.
 <br>
