@@ -9,14 +9,14 @@ author_profile: true
 
 ## [Range Shooter Plus](https://ccd729.itch.io/range-shooter-plus)
 
-<iframe src="https://www.youtube.com/embed/byxF5zNNaDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 560px; height: 315px"></iframe>
+<div style="max-width: 560px"><iframe src="https://www.youtube.com/embed/byxF5zNNaDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 A first-person shooter where player chooses their weapons and either play without rules with sandbox targets or complete the built-in replayable scored trials and challenge for better scores. 
 This game was created as an experimental playground for new learned skills as I wanted to implement several features inspired by many games I've played recently. Started from a course project _Shooting Range Simulator_, I overhauled core mechanics, prototyped new game logic, and reworked animation/physics/effects/etc. This project is a solo project. Other than several free-to-use assets including textures/vectors and unedited sound samples, most content is my own work. The game grew to be more complete than I imagined, so I decided to publish and share it on Itch.io.
 
 
 ## [KANGARUMBLE](https://www.kangarumble.com/)
 
-<iframe src="https://www.youtube.com/embed/bO-pFA_Xl3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="width: 560px; height: 315px"></iframe>
+<div style="max-width: 560px"><iframe src="https://www.youtube.com/embed/bO-pFA_Xl3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 A local multiplayer turn-based party platformer where up to 4 players compete as their unique choices of kangaroos. Players can only move during their turn, and for every stomp they score, their turn gets shorter. Action heats up as tension builds all the way to the final stomp, where only one kangaroo will be victorious!
 This game was my capstone project, took a year to build with a team of 12 students. As the lead programmer, I was in charge of full-purpose coding and team code management. Starting from the pitch, I prototyped and contributed to physics, gameplay, menu/UI, character selection, cross-platform support, version control, code integration and optimization, etc. I also modified Unity's new input system package code in order to adapt our gamepad and split-keyboard control scheme with cross platform support. The _KANGGANG_ worked as a whole and put our efforts and love together sprint from sprint to create this game that we are all proud of.
 _Game awarded Capstone Production Award and Peer Choice Award (Overall Excellence) at UCSC Games Showcase 2020._
