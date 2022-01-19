@@ -9,6 +9,32 @@ author_profile: true
 
 ## [Range Shooter Plus](https://ccd729.itch.io/range-shooter-plus) (Link to Itch.io page and download)
 
+<div>
+  <style scoped>
+    #img-list {
+      display: flex;
+      width: 100%;
+    }
+
+    @media (max-width: 924px) {
+      #img-list {
+        flex-wrap: wrap;
+      }
+    }
+  </style>
+  <div id="img-list">
+    <div style="flex-grow: 1">
+      <img src="/images/project-screenshot-1-1.png" />
+    </div>
+    <div style="flex-grow: 1">
+      <img src="/images/project-screenshot-1-2.png" />
+    </div>
+    <div style="flex-grow: 1">
+      <img src="/images/project-screenshot-1-3.png" />
+    </div>
+  </div>
+</div>
+
 <div style="max-width: 560px"><iframe src="https://www.youtube.com/embed/byxF5zNNaDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 A singleplayer first-person shooter where players choose their weapons and either play without rules with sandbox targets or complete the built-in replayable scored trials and challenges for better scores. 
@@ -17,6 +43,32 @@ This game was created as an experimental playground for newly learned skills as 
 
 
 ## [KANGARUMBLE](https://www.kangarumble.com/) (Link to official site and download)
+
+<div>
+  <style scoped>
+    #img-list {
+      display: flex;
+      width: 100%;
+    }
+
+    @media (max-width: 924px) {
+      #img-list {
+        flex-wrap: wrap;
+      }
+    }
+  </style>
+  <div id="img-list">
+    <div style="flex-grow: 1">
+      <img src="/images/project-screenshot-2-1.png" />
+    </div>
+    <div style="flex-grow: 1">
+      <img src="/images/project-screenshot-2-2.png" />
+    </div>
+    <div style="flex-grow: 1">
+      <img src="/images/project-screenshot-2-3.png" />
+    </div>
+  </div>
+</div>
 
 <div style="max-width: 560px"><iframe src="https://www.youtube.com/embed/bO-pFA_Xl3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
@@ -29,6 +81,32 @@ _Game awarded Capstone Production Award and Peer Choice Award (Overall Excellenc
 
 ## [Skyward Odyssey](https://hpaing.itch.io/skyward-odyssey) (Link to play in browser)
 
+<div>
+  <style scoped>
+    #img-list {
+      display: flex;
+      width: 100%;
+    }
+
+    @media (max-width: 924px) {
+      #img-list {
+        flex-wrap: wrap;
+      }
+    }
+  </style>
+  <div id="img-list">
+    <div style="flex-grow: 1">
+      <img src="/images/project-screenshot-3-1.png" />
+    </div>
+    <div style="flex-grow: 1">
+      <img src="/images/project-screenshot-3-2.png" />
+    </div>
+    <div style="flex-grow: 1">
+      <img src="/images/project-screenshot-3-3.png" />
+    </div>
+  </div>
+</div>
+
 <div style="max-width: 560px"><iframe src="https://www.youtube.com/embed/q5_rguiviks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 An endless sidescroller where the player accompanies a ninja on his unending journey to the end of the world. The player navigates through the skies, leaping across clouds and evading inky threats while exploring temples to piece together the story of the ninja's odyssey.
@@ -38,6 +116,32 @@ This game was 3-person teamwork over three months. We started with a simple endl
 _Game nominated and showcased at UCSC Games Showcase 2019._
 
 ## Smart-Tuney Karting
+
+<div>
+  <style scoped>
+    #img-list {
+      display: flex;
+      width: 100%;
+    }
+
+    @media (max-width: 924px) {
+      #img-list {
+        flex-wrap: wrap;
+      }
+    }
+  </style>
+  <div id="img-list">
+    <div style="flex-grow: 1">
+      <img src="/images/project-screenshot-4-1.png" />
+    </div>
+    <div style="flex-grow: 1">
+      <img src="/images/project-screenshot-4-2.png" />
+    </div>
+    <div style="flex-grow: 1">
+      <img src="/images/project-screenshot-4-3.png" />
+    </div>
+  </div>
+</div>
 
 <div style="max-width: 560px"><iframe src="https://www.youtube.com/embed/LeObdbd_d5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
