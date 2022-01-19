@@ -64,9 +64,6 @@ This game was created as an experimental playground for newly learned skills as 
       <img src="/images/project-screenshot-2-1.png" />
     </div>
     <div style="flex-grow: 1">
-      <img src="/images/project-screenshot-2-2.png" />
-    </div>
-    <div style="flex-grow: 1">
       <img src="/images/project-screenshot-2-3.png" />
     </div>
   </div>
@@ -135,9 +132,6 @@ _Game nominated and showcased at UCSC Games Showcase 2019._
     }
   </style>
   <div id="img-list">
-    <div style="flex-grow: 1">
-      <img src="/images/project-screenshot-4-1.png" />
-    </div>
     <div style="flex-grow: 1">
       <img src="/images/project-screenshot-4-2.png" />
     </div>
