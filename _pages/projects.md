@@ -11,7 +11,7 @@ author_profile: true
 
 <div style="margin-bottom: 0.2rem">
   <style scoped>
-    #img-list1 {
+    #img-list {
       display: flex;
       gap: 0.5rem;
       width: 100%;
@@ -23,19 +23,19 @@ author_profile: true
       }
     }
   </style>
-  <div id="img-list1">
+  <div id="img-list">
     <div style="flex-grow: 1">
-      <a data-fslightbox="gallery" href="/images/project-screenshot-1-1.png">
+      <a data-fslightbox="gallery1" href="/images/project-screenshot-1-1.png">
         <img src="/images/project-screenshot-1-1.png" />
       </a>
     </div>
     <div style="flex-grow: 1">
-      <a data-fslightbox="gallery" href="/images/project-screenshot-1-2.png">
+      <a data-fslightbox="gallery1" href="/images/project-screenshot-1-2.png">
         <img src="/images/project-screenshot-1-2.png" />
       </a>
     </div>
     <div style="flex-grow: 1">
-      <a data-fslightbox="gallery" href="/images/project-screenshot-1-3.png">
+      <a data-fslightbox="gallery1" href="/images/project-screenshot-1-3.png">
         <img src="/images/project-screenshot-1-3.png" />
       </a>
     </div>
@@ -52,7 +52,7 @@ This game was created as an experimental playground for newly learned skills as 
 
 <div style="margin-bottom: 0.2rem">
   <style scoped>
-    #img-list2 {
+    #img-list {
       display: flex;
       gap: 0.5rem;
       width: 100%;
@@ -64,19 +64,19 @@ This game was created as an experimental playground for newly learned skills as 
       }
     }
   </style>
-  <div id="img-list2">
+  <div id="img-list">
     <div style="flex-grow: 1">
-      <a data-fslightbox="gallery" href="/images/project-screenshot-2-1.png">
+      <a data-fslightbox="gallery2" href="/images/project-screenshot-2-1.png">
         <img src="/images/project-screenshot-2-1.png" />
       </a>
     </div>
     <div style="flex-grow: 1">
-      <a data-fslightbox="gallery" href="/images/project-screenshot-2-2.png">
+      <a data-fslightbox="gallery2" href="/images/project-screenshot-2-2.png">
         <img src="/images/project-screenshot-2-2.png" />
       </a>
     </div>
     <div style="flex-grow: 1">
-      <a data-fslightbox="gallery" href="/images/project-screenshot-2-3.png">
+      <a data-fslightbox="gallery2" href="/images/project-screenshot-2-3.png">
         <img src="/images/project-screenshot-2-3.png" />
       </a>
     </div>
@@ -95,7 +95,7 @@ _Game awarded Capstone Production Award and Peer Choice Award (Overall Excellenc
 
 <div style="margin-bottom: 0.2rem">
   <style scoped>
-    #img-list3 {
+    #img-list {
       display: flex;
       gap: 0.5rem;
       width: 100%;
@@ -107,19 +107,19 @@ _Game awarded Capstone Production Award and Peer Choice Award (Overall Excellenc
       }
     }
   </style>
-  <div id="img-list3">
+  <div id="img-list">
     <div style="flex-grow: 1">
-      <a data-fslightbox="gallery" href="/images/project-screenshot-3-1.png">
+      <a data-fslightbox="gallery3" href="/images/project-screenshot-3-1.png">
         <img src="/images/project-screenshot-3-1.png" />
       </a>
     </div>
     <div style="flex-grow: 1">
-      <a data-fslightbox="gallery" href="/images/project-screenshot-3-2.png">
+      <a data-fslightbox="gallery3" href="/images/project-screenshot-3-2.png">
         <img src="/images/project-screenshot-3-2.png" />
       </a>
     </div>
     <div style="flex-grow: 1">
-      <a data-fslightbox="gallery" href="/images/project-screenshot-3-3.png">
+      <a data-fslightbox="gallery3" href="/images/project-screenshot-3-3.png">
         <img src="/images/project-screenshot-3-3.png" />
       </a>
     </div>
@@ -137,7 +137,7 @@ _Game nominated and showcased at UCSC Games Showcase 2019._
 
 <div style="margin-bottom: 0.2rem">
   <style scoped>
-    #img-list4 {
+    #img-list {
       display: flex;
       gap: 0.5rem;
       width: 100%;
@@ -149,19 +149,19 @@ _Game nominated and showcased at UCSC Games Showcase 2019._
       }
     }
   </style>
-  <div id="img-list4">
+  <div id="img-list">
     <div style="flex-grow: 1">
-      <a data-fslightbox="gallery" href="/images/project-screenshot-4-1.png">
+      <a data-fslightbox="gallery4" href="/images/project-screenshot-4-1.png">
         <img src="/images/project-screenshot-4-1.png" />
       </a>
     </div>
     <div style="flex-grow: 1">
-      <a data-fslightbox="gallery" href="/images/project-screenshot-4-2.png">
+      <a data-fslightbox="gallery4" href="/images/project-screenshot-4-2.png">
         <img src="/images/project-screenshot-4-2.png" />
       </a>
     </div>
     <div style="flex-grow: 1">
-      <a data-fslightbox="gallery" href="/images/project-screenshot-4-3.png">
+      <a data-fslightbox="gallery4" href="/images/project-screenshot-4-3.png">
         <img src="/images/project-screenshot-4-3.png" />
       </a>
     </div>
