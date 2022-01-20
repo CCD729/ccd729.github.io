@@ -23,7 +23,7 @@ author_profile: true
       }
     }
   </style>
-  <div id="img-list">
+  <div id="img-list1">
     <div style="flex-grow: 1">
       <a data-fslightbox="gallery" href="/images/project-screenshot-1-1.png">
         <img src="/images/project-screenshot-1-1.png" />
@@ -65,7 +65,7 @@ This game was created as an experimental playground for newly learned skills as 
       }
     }
   </style>
-  <div id="img-list">
+  <div id="img-list2">
     <div style="flex-grow: 1">
       <a data-fslightbox="gallery" href="/images/project-screenshot-2-1.png">
         <img src="/images/project-screenshot-2-1.png" />
@@ -109,7 +109,7 @@ _Game awarded Capstone Production Award and Peer Choice Award (Overall Excellenc
       }
     }
   </style>
-  <div id="img-list">
+  <div id="img-list3">
     <div style="flex-grow: 1">
       <a data-fslightbox="gallery" href="/images/project-screenshot-3-1.png">
         <img src="/images/project-screenshot-3-1.png" />
@@ -152,7 +152,7 @@ _Game nominated and showcased at UCSC Games Showcase 2019._
       }
     }
   </style>
-  <div id="img-list">
+  <div id="img-list4">
     <div style="flex-grow: 1">
       <a data-fslightbox="gallery" href="/images/project-screenshot-4-1.png">
         <img src="/images/project-screenshot-4-1.png" />
