@@ -11,7 +11,7 @@ author_profile: true
 
 <div style="margin-bottom: 0.2rem">
   <style scoped>
-    #img-list {
+    #img-list1 {
       display: flex;
       gap: 0.5rem;
       width: 100%;
@@ -23,7 +23,7 @@ author_profile: true
       }
     }
   </style>
-  <div id="img-list">
+  <div id="img-list1">
     <div style="flex-grow: 1">
       <a data-fslightbox="gallery" href="/images/project-screenshot-1-1.png">
         <img src="/images/project-screenshot-1-1.png" />
@@ -41,8 +41,8 @@ author_profile: true
     </div>
   </div>
 </div>
-<p style="color: rgb(100, 100, 100); margin-bottom: 0.6rem;">(Click image to expand)</p>
-<div style="max-width: 560px"><iframe src="https://www.youtube.com/embed/byxF5zNNaDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
+<div style="max-width: 560px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/byxF5zNNaDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 A singleplayer first-person shooter where players choose their weapons and either play without rules with sandbox targets or complete the built-in replayable scored trials and challenges for better scores. 
 <br><br>
@@ -53,7 +53,7 @@ This game was created as an experimental playground for newly learned skills as 
 
 <div style="margin-bottom: 0.2rem">
   <style scoped>
-    #img-list {
+    #img-list2 {
       display: flex;
       gap: 0.5rem;
       width: 100%;
@@ -65,7 +65,7 @@ This game was created as an experimental playground for newly learned skills as 
       }
     }
   </style>
-  <div id="img-list">
+  <div id="img-list2">
     <div style="flex-grow: 1">
       <a data-fslightbox="gallery" href="/images/project-screenshot-2-1.png">
         <img src="/images/project-screenshot-2-1.png" />
@@ -83,8 +83,8 @@ This game was created as an experimental playground for newly learned skills as 
     </div>
   </div>
 </div>
-<p style="color: rgb(100, 100, 100); margin-bottom: 0.6rem;">(Click image to expand)</p>
-<div style="max-width: 560px"><iframe src="https://www.youtube.com/embed/bO-pFA_Xl3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
+<div style="max-width: 560px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/bO-pFA_Xl3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 A local multiplayer turn-based party platformer where up to 4 players compete as their unique choices of kangaroos. Players can only move during their turn, and for every stomp they score, their turn gets shorter. Action heats up as tension builds all the way to the final stomp, where only one kangaroo will be victorious!
 <br><br>
@@ -97,7 +97,7 @@ _Game awarded Capstone Production Award and Peer Choice Award (Overall Excellenc
 
 <div style="margin-bottom: 0.2rem">
   <style scoped>
-    #img-list {
+    #img-list3 {
       display: flex;
       gap: 0.5rem;
       width: 100%;
@@ -109,7 +109,7 @@ _Game awarded Capstone Production Award and Peer Choice Award (Overall Excellenc
       }
     }
   </style>
-  <div id="img-list">
+  <div id="img-list3">
     <div style="flex-grow: 1">
       <a data-fslightbox="gallery" href="/images/project-screenshot-3-1.png">
         <img src="/images/project-screenshot-3-1.png" />
@@ -127,8 +127,8 @@ _Game awarded Capstone Production Award and Peer Choice Award (Overall Excellenc
     </div>
   </div>
 </div>
-<p style="color: rgb(100, 100, 100); margin-bottom: 0.6rem;">(Click image to expand)</p>
-<div style="max-width: 560px"><iframe src="https://www.youtube.com/embed/q5_rguiviks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
+<div style="max-width: 560px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/q5_rguiviks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 An endless sidescroller where the player accompanies a ninja on his unending journey to the end of the world. The player navigates through the skies, leaping across clouds and evading inky threats while exploring temples to piece together the story of the ninja's odyssey.
 <br><br>
@@ -140,7 +140,7 @@ _Game nominated and showcased at UCSC Games Showcase 2019._
 
 <div style="margin-bottom: 0.2rem">
   <style scoped>
-    #img-list {
+    #img-list4 {
       display: flex;
       gap: 0.5rem;
       width: 100%;
@@ -152,7 +152,7 @@ _Game nominated and showcased at UCSC Games Showcase 2019._
       }
     }
   </style>
-  <div id="img-list">
+  <div id="img-list4">
     <div style="flex-grow: 1">
       <a data-fslightbox="gallery" href="/images/project-screenshot-4-1.png">
         <img src="/images/project-screenshot-4-1.png" />
@@ -170,8 +170,8 @@ _Game nominated and showcased at UCSC Games Showcase 2019._
     </div>
   </div>
 </div>
-<p style="color: rgb(100, 100, 100); margin-bottom: 0.6rem;">(Click image to expand)</p>
-<div style="max-width: 560px"><iframe src="https://www.youtube.com/embed/LeObdbd_d5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
+<div style="max-width: 560px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/LeObdbd_d5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 <br>
 An algorithmic soundtrack generator with goal-oriented action planner that responds to user input and chooses a BGM combination for a Unity Learn Microgame.
 <br><br>
