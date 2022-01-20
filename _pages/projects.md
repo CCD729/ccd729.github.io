@@ -43,7 +43,6 @@ author_profile: true
 </div>
 <p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
 <div style="max-width: 560px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/byxF5zNNaDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<br>
 A singleplayer first-person shooter where players choose their weapons and either play without rules with sandbox targets or complete the built-in replayable scored trials and challenges for better scores. 
 <br><br>
 This game was created as an experimental playground for newly learned skills as I wanted to implement several features inspired by many games I've played recently. Starting from a course project _Shooting Range Simulator_, I overhauled core mechanics, prototyped new game logic, and reworked animation/physics/effects/etc. This project is a solo project. Most content is my work, besides several free-to-use assets like textures/vectors and unedited sound samples. The game grew to have more content than I imagined and functioned well, so I decided to publish and share it on Itch.io.
@@ -85,7 +84,6 @@ This game was created as an experimental playground for newly learned skills as 
 </div>
 <p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
 <div style="max-width: 560px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/bO-pFA_Xl3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<br>
 A local multiplayer turn-based party platformer where up to 4 players compete as their unique choices of kangaroos. Players can only move during their turn, and for every stomp they score, their turn gets shorter. Action heats up as tension builds all the way to the final stomp, where only one kangaroo will be victorious!
 <br><br>
 This game was my capstone project, took a year to build with a team of 12 students. As the lead programmer, I was in charge of full-purpose coding and team code management. Starting from the pitch, I prototyped and contributed to physics, gameplay, menu/UI, character selection, cross-platform support, version control, code integration, optimization, etc. I also modified Unity's new input system package code to adapt our gamepad and split-keyboard control scheme with cross-platform support. The _KANGGANG_ worked as a whole and put our efforts and love together sprint from sprint to create this game that we are all proud of.
@@ -129,7 +127,6 @@ _Game awarded Capstone Production Award and Peer Choice Award (Overall Excellenc
 </div>
 <p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
 <div style="max-width: 560px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/q5_rguiviks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<br>
 An endless sidescroller where the player accompanies a ninja on his unending journey to the end of the world. The player navigates through the skies, leaping across clouds and evading inky threats while exploring temples to piece together the story of the ninja's odyssey.
 <br><br>
 This game was 3-person teamwork over three months. We started with a simple endless runner (game state 1) and pitched new content to enrich the gameplay and story. I prototyped and implemented core mechanics into new states, integrated teamwork weekly with version control, and collaborated code optimization with team members.
@@ -172,7 +169,6 @@ _Game nominated and showcased at UCSC Games Showcase 2019._
 </div>
 <p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
 <div style="max-width: 560px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/LeObdbd_d5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-<br>
 An algorithmic soundtrack generator with goal-oriented action planner that responds to user input and chooses a BGM combination for a Unity Learn Microgame.
 <br><br>
 The research goal was to test a general model that responds to human input of desired quantified attributes and dynamically plan the best suitable progressive combination from predefined assets with weighted attribute values. In this project, these were music instrument patterns and values for loudness, emotion, and tempo. Inspired by the behavior of AI in _F.E.A.R._, I decided to write an A* planner with only the goal value appointed and let it dynamically adjust the following steps based on the current state and average mathematical deviation from the goal (as heuristic). Theoretically, this model could be expanded and applied to any project with a demand of input-responsive customized experience with quantifiable factors and is possible to combine with other technologies and adapt to more complicated human inputs.
