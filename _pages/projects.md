@@ -180,4 +180,3 @@ The research goal was to test a general model that responds to human input of de
 I served as the audio designer and AI Programmer, created layers of tracks in sound base (with PureData), and implemented AI planner (A* based search). Then I generated Unity plugin with hvcc compiler and modified the original project to integrate the sound generator.
 
 
-<script src="https://cdn.jsdelivr.net/npm/fslightbox@3.3.1/index.js"></script>
