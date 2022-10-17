@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a game developer and designer, current graduate student at UC Santa Cruz studying Games and Playable Media. I graduated from UC Santa Cruz with Computer Science: Computer Game Design major. Through years of game developing experience, I developed an interest in interactive design and adaptive game AI. I created a goal-oriented action planner exploring possibilities of AI to adapt to relatively abstract human input and plan dynamically. Currently I am researching neural network processing's application on game audio generation with a team.  I also want to make more games and research immersion technologies for better simulation/response to human emotion.
+I am a game developer, a designer, an FPS lover, a game streamer, and also a current graduate student at UC Santa Cruz studying Games and Playable Media. I am passionate about creating fascinating experiences for players and making brilliant ideas come alive on the screen, with an interest in interactive design and adaptive game AI. I love to explore implementations of interesting mechanics when I make my own games, and I enjoy working with teams to collaborate on many great projects on larger scales. I also created a goal-oriented action planner to test the possibilities of AI to adapt to abstract human input and plan dynamically. Currently, I'm helping a team research game audio generation with neural network processing.
 
 For my portfolio and projects, please click [Here](http://ccd729.github.io/projects "CCD729's Projects") 
 ======
