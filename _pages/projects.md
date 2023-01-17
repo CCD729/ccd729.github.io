@@ -48,7 +48,7 @@ A singleplayer first-person shooter where players choose their weapons and eithe
 This game was created as an experimental playground for newly learned skills as I wanted to implement several features inspired by many games I've played recently. Starting from a course project _Shooting Range Simulator_, I overhauled core mechanics, prototyped new game logic, and reworked animation/physics/effects/etc. This project is a solo project. Most content is my work, besides several free-to-use assets like textures/vectors and unedited sound samples. The game grew to have more content than I imagined and functioned well, so I decided to publish and share it on Itch.io.
 
 
-## [KANGARUMBLE](https://www.kangarumble.com/) (Link to official site and download)
+## [KANGARUMBLE](https://kangarumble.itch.io/kangarumble) (Link to official site and download)
 
 <div style="margin-bottom: 0.2rem">
   <style scoped>
