@@ -11,7 +11,6 @@ I am a game developer, a designer, an FPS lover, a game streamer, and also a cur
 
 For my portfolio and projects, please click [Here](http://ccd729.github.io/projects "CCD729's Projects") 
 
-<a href="http://ccd729.github.io/projects">
-	<div style="max-width: 560px; margin-bottom: 0.6rem;"><img src="/images/projects.png" alt="Projects"></div>
-</a>
+<div style="max-width: 560px; margin-bottom: 0.6rem;"><a href="http://ccd729.github.io/projects"><img src="/images/projects.png" alt="Projects"></a></div>
+
 ======
