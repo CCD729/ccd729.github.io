@@ -11,7 +11,7 @@ I am a game developer, a software engineer, a designer, an FPS lover, a game str
 
 In my undergraduate studies, I created a goal-oriented action planner to test the possibilities of AI to adapt to abstract human input and plan dynamically. 
 
-Last fall, during my first term in grad school, I helped Professor Brian Hansen's research on game audio generation with neural network processing by creating a Unity project and connecting the project to the trained model through Open Sound Control (OSC) and Puredata (Pd). 
+Last fall, during my first term in grad school, I worked with Microsoft dev team to develop a mod for _Age of Empires 4_. At the same time, I helped Professor Brian Hansen's research on game audio generation with neural network processing by creating a Unity project and connecting the project to the trained model through Open Sound Control (OSC) and Puredata (Pd). 
 
 Currently, I am learning Unreal Engine, and I will be making a first-person shooter game with new design approaches with either Unreal or Unity.
 
