@@ -24,17 +24,17 @@ author_profile: true
   </style>
   <div id="img-list">
     <div style="flex-grow: 1">
-      <a data-fslightbox="gallery1" href="/images/project-screenshot-0-1.png">
+      <a data-fslightbox="gallery0" href="/images/project-screenshot-0-1.png">
         <img src="/images/project-screenshot-0-1.png" />
       </a>
     </div>
     <div style="flex-grow: 1">
-      <a data-fslightbox="gallery1" href="/images/project-screenshot-0-2.png">
-        <img src="/images/project-screenshot-01-2.png" />
+      <a data-fslightbox="gallery0" href="/images/project-screenshot-0-2.png">
+        <img src="/images/project-screenshot-0-2.png" />
       </a>
     </div>
     <div style="flex-grow: 1">
-      <a data-fslightbox="gallery1" href="/images/project-screenshot-0-3.png">
+      <a data-fslightbox="gallery0" href="/images/project-screenshot-0-3.png">
         <img src="/images/project-screenshot-0-3.png" />
       </a>
     </div>
@@ -42,6 +42,7 @@ author_profile: true
 </div>
 <p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
 <div style="max-width: 560px; margin-bottom: 0.6rem;"><img src="/images/project-screenshot-0-4.png" alt="King of Kings description"></div>
+<p style="color: rgb(100, 100, 100); margin-bottom: 0.6rem;">Mod description</p>
 King of Kings is an Age of Empires 4 mod that illustrates a capture-the-flag 2-player scenario in a crafted map. 
 <br><br>
 This was an independent study project where we connected to Age 4 dev team members (from World's Edge Studio, a studio of Xbox Game Studios, Microsoft), including Senior Producer Seb Grinke and Yasemin Kuyumcu. After generating a good idea around the Capture-the-Flag game mode, our team worked closely with the dev team and the modding community throughout the development process. As the lead gameplay programmer, I learned to write Lua script with Age 4's content editor and implemented the game mode prototype. After integrating the crafted map, I ported the game mode into a map scenario. I tweaked the details around core mechanics, including winning condition, objective UI, and flag respawn/tracking in fog-of-war. We conducted two playtests in an observation room and several with peer volunteers from all skill levels. Then the mod is published to the Age 4 mod's page with live updates and is ready for the players to enjoy.
