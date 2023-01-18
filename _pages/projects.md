@@ -6,6 +6,45 @@ author_profile: true
 
 {% include base_path %}
 
+## [King of Kings](https://www.ageofempires.com/mods/details/123352) (Link to Age of Empires 4 mods page, requires Microsoft/Steam login)
+
+<div style="margin-bottom: 0.2rem">
+  <style scoped>
+    #img-list {
+      display: flex;
+      gap: 0.5rem;
+      width: 100%;
+    }
+
+    @media (max-width: 924px) {
+      #img-list {
+        flex-wrap: wrap;
+      }
+    }
+  </style>
+  <div id="img-list">
+    <div style="flex-grow: 1">
+      <a data-fslightbox="gallery1" href="/images/project-screenshot-0-1.png">
+        <img src="/images/project-screenshot-0-1.png" />
+      </a>
+    </div>
+    <div style="flex-grow: 1">
+      <a data-fslightbox="gallery1" href="/images/project-screenshot-0-2.png">
+        <img src="/images/project-screenshot-01-2.png" />
+      </a>
+    </div>
+    <div style="flex-grow: 1">
+      <a data-fslightbox="gallery1" href="/images/project-screenshot-0-3.png">
+        <img src="/images/project-screenshot-0-3.png" />
+      </a>
+    </div>
+  </div>
+</div>
+<p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
+<div style="max-width: 560px; margin-bottom: 0.6rem;"><img src="/images/project-screenshot-0-4.png" alt="King of Kings description"></div>
+King of Kings is an Age of Empires 4 mod that illustrates a capture-the-flag 2-player scenario in a crafted map. 
+<br><br>
+This was an independent study project where we connected to Age 4 dev team members (from World's Edge Studio, a studio of Xbox Game Studios, Microsoft), including Senior Producer Seb Grinke and Yasemin Kuyumcu. After generating a good idea around the Capture-the-Flag game mode, our team worked closely with the dev team and the modding community throughout the development process. As the lead gameplay programmer, I learned to write Lua script with Age 4's content editor and implemented the game mode prototype. After integrating the crafted map, I ported the game mode into a map scenario. I tweaked the details around core mechanics, including winning condition, objective UI, and flag respawn/tracking in fog-of-war. We conducted two playtests in an observation room and several with peer volunteers from all skill levels. Then the mod is published to the Age 4 mod's page with live updates and is ready for the players to enjoy.
 
 ## [Range Shooter Plus](https://ccd729.itch.io/range-shooter-plus) (Link to Itch.io page and download)
 
