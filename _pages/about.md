@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a game developer, a software engineer, a designer, an FPS lover, a game streamer, and a current graduate student at UC Santa Cruz studying Games and Playable Media. I am passionate about creating fascinating experiences for players and making brilliant ideas come alive on the screen, with interest in interactive design and adaptive game AI. I love to explore implementations of interesting mechanics when I make my games, and I enjoy working with teams to collaborate on many great projects on larger scales.
 
-In my undergraduate studies, I created a goal-oriented action planner to test the possibilities of AI to adapt to abstract human input and plan dynamically. 
+In my undergraduate studies, I created a goal-oriented action planner to test the possibilities of AI to adapt to abstract human input and plan dynamically. I also worked solo and with teams and developed many games in different genres and scales. Our capstone game _KANGARUMBLE_ won the *Capstone Production Award* and *Peer Choice Award (overall excellence)* at UCSC Games Showcase 2020.
 
 Last fall, during my first term in grad school, I worked with Microsoft dev team to develop a mod for _Age of Empires 4_. At the same time, I helped Professor Brian Hansen's research on game audio generation with neural network processing by creating a Unity project and connecting the project to the trained model through Open Sound Control (OSC) and Puredata (Pd). 
 
