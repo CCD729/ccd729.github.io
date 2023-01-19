@@ -6,7 +6,8 @@ author_profile: true
 
 {% include base_path %}
 
-## [King of Kings](https://www.ageofempires.com/mods/details/123352) (Link to Age of Empires 4 mods page, requires Microsoft/Steam login)
+## [King of Kings](https://www.ageofempires.com/mods/details/123352) 
+##(Link to Age of Empires 4 mods page, requires Microsoft/Steam login)
 
 <div style="margin-bottom: 0.2rem">
   <style scoped>
@@ -47,7 +48,8 @@ An _Age of Empires 4_ mod that illustrates a capture-the-flag 2-player scenario 
 <br><br>
 This mod was an independent study project where we connected to Age 4 dev team members (from _World's Edge Studio_, a studio of Xbox Game Studios, Microsoft), including Senior Producer Seb Grinke and Yasemin Kuyumcu. After generating a good idea around the Capture-the-Flag game mode, our team worked closely with the dev team and the modding community throughout the development process. As the lead gameplay programmer, I learned to write Lua script with Age 4's content editor and implemented the game mode prototype. After integrating the crafted map, I ported the game mode into a map scenario. I tweaked the details around core mechanics, including winning condition, objective UI, and flag respawn/tracking in fog-of-war. We conducted two playtests in an observation room and several with peer volunteers from all skill levels. Then the mod is published to the Age 4 mod's page with live updates and is ready for the players to enjoy.
 
-## [AI Generated Sound Effects for Games](https://www.gamesoundcon.com/schedule) (Link to GameSoundCon 2022 event schedule, the talk is on Wednesday, October 26, at 11:50 am - 12:20 pm by Brian Hansen)
+## [AI Generated Sound Effects for Games](https://www.gamesoundcon.com/schedule) 
+##(Link to GameSoundCon 2022 event schedule, the talk is on Wednesday, October 26, at 11:50 am - 12:20 pm by Brian Hansen)
 
 <div style="margin-bottom: 0.2rem">
   <style scoped>
