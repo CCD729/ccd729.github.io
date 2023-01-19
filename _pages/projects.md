@@ -87,7 +87,9 @@ This mod was an independent study project where we connected to Age 4 dev team m
 <p style="color: rgb(100, 100, 100); margin-bottom: 0.6rem;">Unity project</p>
 A research project about AI utilization to generate sound effects for implementation in games: explores the use of neural networks to model and synthesize ¡°procedural audio¡± as an alternative to the main contemporary approach of playing back pre-recorded audio files.
 <br><br>
-This project was an unexpected opportunity that came to me at the beginning of the first graduate school term. During a greeting conversation with Brian Hansen, one of my favorite and most respected professors, he asked if I would be interested in helping with his audio research project about neural network processing, and I hopped in. I built a Unity scene from scratch with online assets and used Open Sound Control (OSC) plugin to send messages to the trained audio encoder/decoder model. The project was showcased as an example of the researched AI model on October 26, 2022, at _Game Music and Sound Design Conference (GameSoundCon) 2022_.
+This project was an unexpected opportunity that came to me at the beginning of the first graduate school term. During a greeting conversation with Brian Hansen, one of my favorite and most respected professors, he asked if I would be interested in helping with his audio research project about neural network processing, and I hopped in. I built a Unity scene from scratch with online assets to create a zombie/monster scene. With all animations tracked via specific parameters from body movement, I used Open Sound Control (OSC) plugin to send messages to the trained audio encoder/decoder model to guide the sound generation. 
+<br><br>
+_Project showcased as an example of the researched AI model on October 26, 2022, at Game Music and Sound Design Conference (GameSoundCon)._
 
 
 ## [Range Shooter Plus](https://ccd729.itch.io/range-shooter-plus) (Link to Itch.io page and download)
