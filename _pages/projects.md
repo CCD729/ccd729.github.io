@@ -84,7 +84,7 @@ This mod was an independent study project where we connected to Age 4 dev team m
   </div>
 </div>
 <p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
-<div style="max-width: 720px; margin-bottom: 0.4rem;"><img src="/images/project-screenshot-01-4.png" alt="Unity project image"></div>
+<div style="max-width: 720px; margin-bottom: 0.4rem;"><a data-fslightbox="gallery011" href="/images/project-screenshot-01-4.png"><img src="/images/project-screenshot-01-4.png" alt="Unity project image"></a></div>
 <p style="color: rgb(100, 100, 100); margin-bottom: 0.6rem;">Unity project</p>
 A research project about AI utilization to generate sound effects for implementation in games: explores the use of neural networks to model and synthesize "procedural audio" as an alternative to the main contemporary approach of playing back pre-recorded audio files.
 <br><br>
