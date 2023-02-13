@@ -6,6 +6,50 @@ author_profile: true
 
 {% include base_path %}
 
+## Illume (WIP)
+
+<div style="margin-bottom: 0.2rem">
+  <style scoped>
+    #img-list {
+      display: flex;
+      gap: 0.5rem;
+      width: 100%;
+    }
+
+    @media (max-width: 924px) {
+      #img-list {
+        flex-wrap: wrap;
+      }
+    }
+  </style>
+  <div id="img-list">
+    <div style="flex-grow: 1">
+      <a data-fslightbox="gallery03" href="/images/project-screenshot-03-1.png">
+        <img src="/images/project-screenshot-03-1.png" />
+      </a>
+    </div>
+    <div style="flex-grow: 1">
+      <a data-fslightbox="gallery03" href="/images/project-screenshot-03-2.png">
+        <img src="/images/project-screenshot-03-2.png" />
+      </a>
+    </div>
+    <div style="flex-grow: 1">
+      <a data-fslightbox="gallery03" href="/images/project-screenshot-03-3.png">
+        <img src="/images/project-screenshot-03-3.png" />
+      </a>
+    </div>
+  </div>
+</div>
+<p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
+<div style="max-width: 560px; margin-bottom: 0.4rem;"><a data-fslightbox="gallery031" href="/images/project-screenshot-03-4.png"><img src="/images/project-screenshot-03-4.png" alt="Illume Nanite triangles view"></a></div>
+<p style="color: rgb(100, 100, 100); margin-bottom: 0.6rem;">Nanite triangles view</p>
+A Unreal Engine 5.1 first-person game where the player explores an unknown facility in the mountain and solves puzzles as they proceed through and light up the areas/chambers. (Under development, content could be changed)
+<br><br>
+This game is a project started as a feature test of the engine. Since Unreal 5's reveal, Unreal kept updating new content that caught my eye. After some small tutorial projects, I launched this one aiming for more than a greybox prototype. First I created a first-person character controller via Blueprints, then I made a simple prototype level for control tweaking. Then I learned the modeling and landscape creation tools (which were really intuitive and user-friendly), then combined the landscape I made with Quixel Megascans 3D assets and materials, and created the snow mountain facility entry environment that I really liked. Now I am working on the indoor level with Cubegrid, particles, emissive materials, etc.
+<br><br>
+I was amazed by the visual outputs achieved with the built-in tools (thanks to Lumen Global Illumination), and curious about other new features (like Nanite and Metahuman), but unfortunately Metahuman melts my computer, so I went with poly to Nanite experiments first, and it worked great. I will be actively working on this project toward a playable demo. Currently, I am fixing an auto-exposure issue by using Post-Processing Volume with manual exposure override so the dark room won't have weird lighting problems. I will be working on a volumetric fog visual improvement later.
+
+
 ## [Dream of the Icy Mountain](https://drive.google.com/file/d/1F62vmos6PeJvLz9cMHYCP7KNTbcFvybY/view)<br>(Link to Mod .zip file, require PC Celeste base game & Everest API)
 
 <div style="margin-bottom: 0.2rem">
@@ -42,9 +86,10 @@ author_profile: true
 </div>
 <p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
 <div style="max-width: 560px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/pF_zpxnms3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-An _Celeste_ mod for experienced players (finished Chapter 4 A-side and collected some strawberries along the way) with a small custom map illustrating a dream of Madeline's.
+A _Celeste_ mod for experienced players (finished Chapter 4 A-side and collected some strawberries along the way) with a small custom map illustrating a dream of Madeline's.
 <br><br>
 This mod was a good level design practice. I liked playing Celeste and I decided to make a level for it, so I began learning to use the Loenn map editor. I designed all level elements from sketching while imagining and drawing player's progression. According to player's metrics, I made a prototype level with documented ideas. Then I decorated the map tiles with snowy theme and added player guidance. After a series of playtests, I added a checkpoint (spawnpoint) and rebalanced several challenge difficulty. I enjoyed making this map and looking at others play.
+
 
 ## [King of Kings](https://www.ageofempires.com/mods/details/123352)<br>(Link to Age of Empires 4 mods page, requires Microsoft/Steam login)
 
@@ -86,6 +131,7 @@ This mod was a good level design practice. I liked playing Celeste and I decided
 An _Age of Empires 4_ mod that illustrates a capture-the-flag 2-player scenario in a crafted map. 
 <br><br>
 This mod was an independent study project where we connected to Age 4 dev team members (from _World's Edge Studio_, a studio of Xbox Game Studios, Microsoft), including Senior Producer Seb Grinke and Yasemin Kuyumcu. After generating a good idea around the Capture-the-Flag game mode, our team worked closely with the dev team and the modding community throughout the development process. As the lead gameplay programmer, I learned to write Lua script with Age 4's content editor and implemented the game mode prototype. After integrating the crafted map, I ported the game mode into a map scenario. I tweaked the details around core mechanics, including winning condition, objective UI, and flag respawn/tracking in fog-of-war. We conducted two playtests in an observation room and several with peer volunteers from all skill levels. Then the mod is published to the Age 4 mod's page with live updates and is ready for the players to enjoy.
+
 
 ## [AI Generated Sound Effects for Games](https://www.gamesoundcon.com/schedule)<br>(Link to GameSoundCon 2022 event schedule, the talk is on Wednesday, October 26, at 11:50 am - 12:20 pm by Brian Hansen)
 
@@ -256,6 +302,7 @@ An endless sidescroller where the player accompanies a ninja on his unending jou
 This game was 3-person teamwork over three months. We started with a simple endless runner (game state 1) and pitched new content to enrich the gameplay and story. I prototyped and implemented core mechanics into new states, integrated teamwork weekly with version control, and collaborated code optimization with team members.
 <br><br>
 _Game nominated and showcased at UCSC Games Showcase 2019._
+
 
 ## Smart-Tuney Karting
 
