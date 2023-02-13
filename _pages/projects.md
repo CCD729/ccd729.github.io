@@ -6,6 +6,46 @@ author_profile: true
 
 {% include base_path %}
 
+## [Dream of the Icy Mountain](https://drive.google.com/file/d/1F62vmos6PeJvLz9cMHYCP7KNTbcFvybY/view)<br>(Link to Mod .zip file, require PC Celeste base game & Everest API)
+
+<div style="margin-bottom: 0.2rem">
+  <style scoped>
+    #img-list {
+      display: flex;
+      gap: 0.5rem;
+      width: 100%;
+    }
+
+    @media (max-width: 924px) {
+      #img-list {
+        flex-wrap: wrap;
+      }
+    }
+  </style>
+  <div id="img-list">
+    <div style="flex-grow: 1">
+      <a data-fslightbox="gallery02" href="/images/project-screenshot-02-1.png">
+        <img src="/images/project-screenshot-02-1.png" />
+      </a>
+    </div>
+    <div style="flex-grow: 1">
+      <a data-fslightbox="gallery02" href="/images/project-screenshot-02-2.png">
+        <img src="/images/project-screenshot-02-2.png" />
+      </a>
+    </div>
+    <div style="flex-grow: 1">
+      <a data-fslightbox="gallery02" href="/images/project-screenshot-02-3.png">
+        <img src="/images/project-screenshot-02-3.png" />
+      </a>
+    </div>
+  </div>
+</div>
+<p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
+<div style="max-width: 560px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/pF_zpxnms3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+An _Celeste_ mod for experienced players (finished Chapter 4 A-side and collected some strawberries along the way) with a small custom map illustrating a dream of Madeline's.
+<br><br>
+This mod was a good level design practice. I liked playing Celeste and I decided to make a level for it, so I began learning to use the Loenn map editor. I designed all level elements from sketching while imagining and drawing player's progression. According to player's metrics, I made a prototype level with documented ideas. Then I decorated the map tiles with snowy theme and added player guidance. After a series of playtests, I added a checkpoint (spawnpoint) and rebalanced several challenge difficulty. I enjoyed making this map and looking at others play.
+
 ## [King of Kings](https://www.ageofempires.com/mods/details/123352)<br>(Link to Age of Empires 4 mods page, requires Microsoft/Steam login)
 
 <div style="margin-bottom: 0.2rem">
