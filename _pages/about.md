@@ -13,9 +13,9 @@ I developed many games in different genres and scales either solo or with teams.
 
 Last fall, during my first term in grad school, I worked with Microsoft dev team to develop a mod for _Age of Empires 4_. At the same time, I helped Professor Brian Hansen's research on game audio generation with neural network processing by creating a Unity project and connecting the project to the trained model through Open Sound Control (OSC). 
 
-On the design side, I designed game mechanics and system for my shooter game and the Age 4 mod. I also designed a level for my first Celeste mod.  I participated in the design process in almost all my team projects.
+On the design side, I designed game mechanics and systems for my shooter game and the Age 4 mod. I also designed a level for my first Celeste mod.  I love participating in the design process even if I am not the official designer of the team.
 
-Currently I'm learning and working on a new Unreal Engine 5.1 first-person game, and the prototype level looks good :) 
+Currently I'm learning and working on a new Unreal Engine 5.1 first-person game, and a nice-looking chunk of the map has been done! Unreal is a powerful engine, and I will be on this project for a while :)
 
 For my portfolio and projects, please click [Here](http://ccd729.github.io/projects "CCD729's Projects") 
 ======
