@@ -43,7 +43,7 @@ author_profile: true
 <p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
 <div style="max-width: 560px; margin-bottom: 0.4rem;"><a data-fslightbox="gallery031" href="/images/project-screenshot-03-4.png"><img src="/images/project-screenshot-03-4.png" alt="Illume Nanite triangles view"></a></div>
 <p style="color: rgb(100, 100, 100); margin-bottom: 0.6rem;">Nanite triangles view</p>
-A Unreal Engine 5.1 first-person game where the player explores an unknown facility in the mountain and solves puzzles as they proceed through and light up the areas/chambers. (Under development, content could be changed)
+An Unreal Engine 5.1 first-person game where the player explores an unknown facility in the mountain and solves puzzles as they proceed through and light up the areas/chambers. (Under development, content could be changed)
 <br><br>
 This game is a project started as a feature test of the engine. Since Unreal 5's reveal, Unreal kept updating new content that caught my eye. After some small tutorial projects, I launched this one aiming for more than a greybox prototype. First I created a first-person character controller via Blueprints, then I made a simple prototype level for control tweaking. Then I learned the modeling and landscape creation tools (which were really intuitive and user-friendly), then combined the landscape I made with Quixel Megascans 3D assets and materials, and created the snow mountain facility entry environment that I really liked. Now I am working on the indoor level with Cubegrid, particles, emissive materials, etc.
 <br><br>
