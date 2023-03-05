@@ -52,6 +52,49 @@ Then, I learned the level modeling and landscape creation tools and combined the
 I was amazed by the visual outputs achieved with the built-in tools (thanks to Lumen Global Illumination), and curious about other new features the engine had to offer. Unfortunately, Metahuman melts my computer, so I experimented with Nanite geometry, volumetric fog, and real-time lighting first. I will be actively working on this project toward a playable demo.
 
 
+## THE FORSAKEN SCIENCE (Portal 2 Map)
+
+<div style="margin-bottom: 0.2rem">
+  <style scoped>
+    #img-list {
+      display: flex;
+      gap: 0.5rem;
+      width: 100%;
+    }
+
+    @media (max-width: 924px) {
+      #img-list {
+        flex-wrap: wrap;
+      }
+    }
+  </style>
+  <div id="img-list">
+    <div style="flex-grow: 1">
+      <a data-fslightbox="gallery04" href="/images/project-screenshot-04-1.png">
+        <img src="/images/project-screenshot-04-1.png" />
+      </a>
+    </div>
+    <div style="flex-grow: 1">
+      <a data-fslightbox="gallery04" href="/images/project-screenshot-04-2.png">
+        <img src="/images/project-screenshot-04-2.png" />
+      </a>
+    </div>
+    <div style="flex-grow: 1">
+      <a data-fslightbox="gallery04" href="/images/project-screenshot-04-3.png">
+        <img src="/images/project-screenshot-04-3.png" />
+      </a>
+    </div>
+  </div>
+</div>
+<p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
+<div style="max-width: 560px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/RyaJMgJvOZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+A _Portal 2_ custom map made with the original Puzzle Creator and _BEE2.4_. The map's theme is the decaying and rusty Aperture Science Enrichment Center after countless years of testing. GlaDOS is still in charge, but the test seems not the same as before...
+<br><br>
+I am a super _Portal_ fan and have been fascinated by the fan-made maps and mods over the decade (_Portal 2_ is a 2011 game, but new mods are still coming out today!). As a 3D level design practice, I started learning the map/puzzle editor. The editor had limited functionalities, but learning the Portal 2 Authoring Tool (Hammer) is a bit out of scope given the time window. I chose something in between - the Better Extended Editor (BEE), which mods the original puzzle creator so it can offer more features.
+<br><br>
+Portal's level design and puzzle-making are tricky because there are many ways to achieve the goal if players are not limited to specific mechanic choices. Also, by reconfiguring the same level or replacing the available map mechanics, the same room could feel completely different. It is challenging, but that's why I love it so much :) In this map, I tried guiding players by limiting the options at the beginning (using contrast and obvious tutorials) and leaving some freedom for players to choose their way to play mid-game. I also reconfigured the level along with player progression to reuse previous elements and make backtracking meaningful.
+
+
 ## [Dream of the Icy Mountain](https://drive.google.com/file/d/1F62vmos6PeJvLz9cMHYCP7KNTbcFvybY/view)<br>(Link to Mod .zip file, require PC Celeste base game & Everest API)
 
 <div style="margin-bottom: 0.2rem">
@@ -90,7 +133,7 @@ I was amazed by the visual outputs achieved with the built-in tools (thanks to L
 <div style="max-width: 560px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/pF_zpxnms3M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 A _Celeste_ mod for experienced players (finished Chapter 4 A-side and collected some strawberries along the way) with a small custom map illustrating a dream of Madeline's.
 <br><br>
-This mod was a good level design practice. I liked playing Celeste and I decided to make a level for it, so I began learning to use the Loenn map editor. I designed all level elements from sketching while imagining and drawing the player's progression. According to the player's metrics, I made a prototype level with documented ideas. Then I decorated the map tiles with a snowy theme and added player guidance. After a series of playtests, I added a checkpoint (spawnpoint) and rebalanced several challenge difficulties. I enjoyed making this map and looking at others play.
+This mod was a good level design practice. I liked playing _Celeste_ and I decided to make a level for it, so I began learning to use the Loenn map editor. I designed all level elements from sketching while imagining and drawing the player's progression. According to the player's metrics, I made a prototype level with documented ideas. Then I decorated the map tiles with a snowy theme and added player guidance. After a series of playtests, I added a checkpoint (spawnpoint) and rebalanced several challenge difficulties. I enjoyed making this map and looking at others play.
 
 
 ## [King of Kings](https://www.ageofempires.com/mods/details/123352)<br>(Link to Age of Empires 4 mods page, requires Microsoft/Steam login)
