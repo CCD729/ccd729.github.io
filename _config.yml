@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "CCD729"
 title_separator          : "-"
 name                     : &name "Erwang Li"
-description              : &description "Gameplay engineer / level Designer, UC Santa Cruz graduate student in M.S. Games & Playable Media"
+description              : &description "Gameplay Engineer / Technical Designer, UC Santa Cruz graduate student in M.S. Games & Playable Media"
 url                      : https://ccd729.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CCD729.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Erwang Li"
   avatar           : "avatar.png"
-  bio              : "Gameplay engineer / level designer, UC Santa Cruz graduate student in M.S. Games & Playable Media, passionate about game technologies and immersive interaction design"
+  bio              : "Gameplay Engineer / Technical Designer, UC Santa Cruz graduate student in M.S. Games & Playable Media, passionate about game technologies and immersive interaction design"
   location         : "Santa Clara, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
