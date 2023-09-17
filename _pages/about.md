@@ -7,15 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a gameplay engineer, a technical designer, a level designer, an FPS lover, a game streamer, and a current graduate student at UC Santa Cruz studying Games and Playable Media. I am passionate about creating fascinating experiences for players and making brilliant ideas come alive on the screen, with interest in interactive design and adaptive game AI. I love exploring new technologies and learning to implement creative mechanics when I make my games, and I enjoy working with teams to collaborate on many great projects on larger scales.
+Hello there! I'm Erwang, a gameplay engineer and technical game designer. As a gamer, I love FPS, roguelike and puzzle games a lot. While as a developer, I'm passionate about creating fascinating experiences for players and making brilliant ideas come alive on the screen. I love exploring new technologies and learning to implement creative mechanics, and I enjoy working with teams to share the joy while keeping the workflow healthy.
 
-I developed many games in different genres and scales solo or with teams. Our undergraduate capstone game _KANGARUMBLE_ won the Capstone Production Award and Peer Choice Award (overall excellence) at UCSC Games Showcase 2020.
+I designed and developed many games in different genres and scales solo or with teams. During my academic career, I had the chance to participate in projects that collaborated with _Microsoft (World's Edge)_ and _Dolby Labs_, and researches which one of them was presented at _GameSoundCon_ 2022.
 
-During my first term in grad school, I worked with the Microsoft dev team to develop a mod for _Age of Empires 4_. At the same time, I helped Professor Brian Hansen's research on audio game generation with neural network processing by creating a Unity project and connecting the project to the trained model through Open Sound Control (OSC). 
-
-On the design side, I designed game mechanics and systems for my shooter game and the Age 4 mod. I also designed levels while carefully tweaking player's experiences for a _Celeste_ map and a _Portal 2_ map. I love participating in the design process even if I am not the official designer of the team.
-
-I am learning and working on a new Unreal Engine 5.1 first-person game, and I have made a prototype level! Unreal is a powerful engine, and I will be on this project for a while :) I look forward to joining teams in the industry as a gameplay engineer, level designer, or other positions that fit my skill set so that I can put my skills into impactful work and create entertaining experiences with everyone!
+Here is a introductory video that will help you know me better :) (WIP)
 
 For my portfolio and projects, please click [Here](http://ccd729.github.io/projects "CCD729's Projects") 
 ======
