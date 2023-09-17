@@ -6,51 +6,6 @@ author_profile: true
 
 {% include base_path %}
 
-## Illume (WIP)
-
-<div style="margin-bottom: 0.2rem">
-  <style scoped>
-    #img-list {
-      display: flex;
-      gap: 0.5rem;
-      width: 100%;
-    }
-
-    @media (max-width: 924px) {
-      #img-list {
-        flex-wrap: wrap;
-      }
-    }
-  </style>
-  <div id="img-list">
-    <div style="flex-grow: 1">
-      <a data-fslightbox="gallery03" href="/images/project-screenshot-03-1.png">
-        <img src="/images/project-screenshot-03-1.png" />
-      </a>
-    </div>
-    <div style="flex-grow: 1">
-      <a data-fslightbox="gallery03" href="/images/project-screenshot-03-2.png">
-        <img src="/images/project-screenshot-03-2.png" />
-      </a>
-    </div>
-    <div style="flex-grow: 1">
-      <a data-fslightbox="gallery03" href="/images/project-screenshot-03-3.png">
-        <img src="/images/project-screenshot-03-3.png" />
-      </a>
-    </div>
-  </div>
-</div>
-<p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
-<div style="max-width: 560px; margin-bottom: 0.4rem;"><a data-fslightbox="gallery031" href="/images/project-screenshot-03-4.png"><img src="/images/project-screenshot-03-4.png" alt="Illume Nanite triangles view"></a></div>
-<p style="color: rgb(100, 100, 100); margin-bottom: 0.6rem;">Nanite triangles view</p>
-An Unreal Engine 5.1 first-person game where the player explores an unknown facility in the mountain and solves as they proceed through and light up the areas/chambers. (Under development, content could be changed)
-<br><br>
-This game started as a feature test of the engine. Since Unreal 5's reveal, Unreal has kept updating eye-catching new content. After some small tutorial projects, I launched this one aiming for more than a grey box prototype. I created a first-person character controller via Blueprints and then made a simple prototype level to experiment with mechanics ideas. Currently, the prototyped idea is that the player needs to interact with the objects like sliders that synchronize with room structures. When they make the correct connections, a part of the room will become lit and accessible. 
-<br><br>
-Then, I learned the level modeling and landscape creation tools and combined the landscape I made with Quixel Megascans 3D assets and materials, to create the snow mountain facility entry environment which I liked a lot. After that, I started working on the indoor level with Cubegrid, particles, emissive materials, etc.
-<br><br>
-I was amazed by the visual outputs achieved with the built-in tools (thanks to Lumen Global Illumination), and curious about other new features the engine had to offer. Unfortunately, Metahuman melts my computer, so I experimented with Nanite geometry, volumetric fog, and real-time lighting first. I will be actively working on this project toward a playable demo.
-
 
 ## [THE FORSAKEN SCIENCE](https://steamcommunity.com/sharedfiles/filedetails/?id=2949491278) (Portal 2 Map)
 
@@ -88,12 +43,9 @@ I was amazed by the visual outputs achieved with the built-in tools (thanks to L
 </div>
 <p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
 <div style="max-width: 560px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/RyaJMgJvOZ4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-A _Portal 2_ custom map made with the original Puzzle Creator and _BEE2.4_. The map's theme is the decaying and rusty Aperture Science Enrichment Center after countless years of testing. GlaDOS is still in charge, but the test seems not the same as before...
+A _Portal 2_ custom map made with the original Puzzle Creator and _BEE2.4_. The map's theme is the decaying and rusty Aperture Science Enrichment Center after countless years of testing. GlaDOS is still in charge, but the test seems not the same as before¡­
 <br><br>
-I am a super _Portal_ fan and have been fascinated by fan-made maps and mods over the decade (_Portal 2_ is a 2011 game, but new mods are still coming out today!). As a 3D level design practice, I started learning the map/puzzle editor. The editor had limited functionalities, but learning the Portal 2 Authoring Tool (Hammer) is a bit out of scope given the time window. I chose something in between - the Better Extended Editor (BEE), which mods the original puzzle creator so it can offer more features.
-<br><br>
-Portal's level design and puzzle-making are tricky because there are many ways to achieve the goal if players are not limited to specific mechanic choices. However, this possibility and creativity is actually what makes it fun, so a clever level design where all mechanics make sense is the key. By reconfiguring the same level or replacing the available map mechanics, the same room could feel completely different. It is challenging, but that's why I love it so much :) In this map, I tried guiding players by limiting the options at the beginning (using contrast and obvious tutorials) and leaving some freedom for players to choose their way to play mid-game. I also reconfigured the level along with player progression to reuse previous elements and make backtracking meaningful.
-
+I am a super _Portal_ fan and have been fascinated by fan-made maps and mods over the decade. _Portal_'s level design and puzzle-making are tricky because there are many ways to achieve the goal if players are not limited to specific mechanic choices. However, this possibility and creativity is actually what makes it fun, so a clever level design where all mechanics make sense is the key. By reconfiguring the same level or replacing the available map mechanics, the same room could feel completely different. It is challenging, but that's why I love it so much :) In this map, I tried guiding players by limiting the options at the beginning (using contrast and obvious tutorials) and leaving some freedom for players to choose their way to play mid-game. I also reconfigured the level along with player progression to reuse previous elements and make backtracking meaningful.
 
 ## [Dream of the Icy Mountain](https://drive.google.com/file/d/1F62vmos6PeJvLz9cMHYCP7KNTbcFvybY/view)<br>(Link to Mod .zip file, require PC Celeste base game & Everest API)
 
@@ -175,8 +127,7 @@ This mod was a good level design practice. I liked playing _Celeste_ and decided
 <p style="color: rgb(100, 100, 100); margin-bottom: 0.6rem;">Mod description</p>
 An _Age of Empires 4_ mod that illustrates a capture-the-flag 2-player scenario in a crafted map. 
 <br><br>
-This mod was an independent study project where we connected to Age 4 dev team members (from _World's Edge_ Studio, a studio of Xbox Game Studios, Microsoft), including Senior Producer Seb Grinke and Yasemin Kuyumcu. After generating a good idea around the Capture-the-Flag game mode, our team worked closely with the dev team and the modding community throughout the development process. As the lead gameplay programmer, I learned to write Lua script with Age 4's content editor and implemented the game mode prototype from 0 experience. After integrating the crafted map, I ported the game mode into a map scenario. I tweaked the details around core mechanics, including winning condition, objective UI, and flag respawn/tracking in fog-of-war. We conducted two playtests in an observation room and several with peer volunteers from all skill levels. Then the mod is published to the Age 4 mod's page with live updates and is ready for players to enjoy.
-
+This mod was an independent study project where we connected to Age 4 dev team members (from _World's Edge_, a studio of _Xbox Game Studios, Microsoft_), including Senior Producer _Seb Grinke_ and _Yasemin Kuyumcu_. After generating a good idea around the Capture-the-Flag game mode, our team worked closely with the dev team and the modding community throughout the development process. As the lead gameplay programmer, I learned to write Lua script with Age 4's content editor and implemented the game mode prototype from 0 experience. After integrating the crafted map, I ported the game mode into a map scenario. I tweaked the details around core mechanics, including winning condition, objective UI, and flag respawn/tracking in fog-of-war. We conducted two playtests in an observation room and several with peer volunteers from all skill levels. Then we published the mod to the Age 4 mod's page with live updates and is ready for players to enjoy.
 
 ## [AI Generated Sound Effects for Games](https://www.gamesoundcon.com/schedule)<br>(Link to GameSoundCon 2022 event schedule, the talk is on Wednesday, October 26, at 11:50 am - 12:20 pm by Brian Hansen)
 
@@ -217,8 +168,7 @@ This mod was an independent study project where we connected to Age 4 dev team m
 <p style="color: rgb(100, 100, 100); margin-bottom: 0.6rem;">Unity project</p>
 A research project about AI utilization to generate sound effects for implementation in games: explores the use of neural networks to model and synthesize "procedural audio" as an alternative to the main contemporary approach of playing back pre-recorded audio files.
 <br><br>
-This project was an unexpected opportunity that came to me at the beginning of the first graduate school term. During a greeting conversation with Brian Hansen, one of my favorite and most respected professors, he asked if I would be interested in helping with his audio research project about neural network processing, and I hopped in. I built a Unity scene from scratch with online assets to create a zombie/monster scene. With all animations tracked via specific parameters from body movement, I used Open Sound Control (OSC) plugin to send messages to the trained audio encoder/decoder model to guide the sound generation. 
-<br><br>
+I built a Unity scene with online assets to create a zombie/monster scene. With all animations tracked via specific parameters from body movement, I used Open Sound Control (OSC) plugin to send messages to the trained audio encoder/decoder model to guide the sound generation.<br><br>
 _Project showcased as an example of the researched AI model on October 26, 2022, at Game Music and Sound Design Conference (GameSoundCon)._
 
 
@@ -260,8 +210,7 @@ _Project showcased as an example of the researched AI model on October 26, 2022,
 <div style="max-width: 560px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/byxF5zNNaDE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 A singleplayer first-person shooter where players choose their weapons and either play without rules with sandbox targets or complete the built-in replayable scored trials and challenges for better scores. 
 <br><br>
-This game was created as an experimental playground for newly learned skills as I wanted to implement several features inspired by many games I've played recently. Starting from a course project _Shooting Range Simulator_, I overhauled core mechanics, prototyped new game logic, and reworked animation/physics/effects/etc. This project is a solo project. Most content is my work, besides several free-to-use assets like textures/vectors and unedited sound samples. The game grew to have more content than I imagined and functioned well, so I decided to publish and share it on Itch.io.
-
+This game was created as an experimental playground for newly learned skills as I wanted to implement several features inspired by many games I've played recently. I implemented the weapon system and gameplay mechanics such as character controller, shooting, recoil and weapon handling. I also created 3D assets like guns and map objects, then made animation, HUD, menu UI, particles, and sound/visual effects. Design wise, I prototyped challenge levels and targets' behaviors, and tweaked the project as the development progressed. In this project, I prototyped multiple system design approaches for large-scale systems. The game grew to have more content than I imagined and functioned well, so I decided to publish and share it on Itch.io.
 
 ## [KANGARUMBLE](https://kangarumble.itch.io/kangarumble) (Link to official site and download)
 
