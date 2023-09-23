@@ -13,6 +13,9 @@ I designed and developed many games in different genres and scales solo or with 
 
 Here is a introductory video that will help you know me better :) (WIP)
 
+<div style="max-width: 680px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/VyyoGajyJZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
 For my portfolio and projects, please click [Here](http://ccd729.github.io/projects "CCD729's Projects") 
 ======
 
