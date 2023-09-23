@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 
-## [GPT Roguelike Curator]
+## GPT Roguelike Curator
 
 <div style="margin-bottom: 0.2rem">
   <style scoped>
