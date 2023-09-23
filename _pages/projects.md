@@ -7,6 +7,40 @@ author_profile: true
 {% include base_path %}
 
 
+## [GPT Roguelike Curator]
+
+<div style="margin-bottom: 0.2rem">
+  <style scoped>
+    #img-list {
+      display: flex;
+      gap: 0.5rem;
+      width: 100%;
+    }
+
+    @media (max-width: 924px) {
+      #img-list {
+        flex-wrap: wrap;
+      }
+    }
+  </style>
+  <div id="img-list">
+    <div style="flex-grow: 1">
+      <a data-fslightbox="gallery03" href="/images/project-screenshot-03-1.png">
+        <img src="/images/project-screenshot-03-1.png" />
+      </a>
+    </div>
+    <div style="flex-grow: 1">
+      <a data-fslightbox="gallery03" href="/images/project-screenshot-03-2.png">
+        <img src="/images/project-screenshot-03-2.png" />
+      </a>
+    </div>
+  </div>
+</div>
+<p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
+A research project exploring the possibilities of large language models as an AI assistant that curates player progression in a roguelike setup based on playstyle instead of traditional randomization. The LLM receives a prompt with historical information like player stats and game state, then returns output which is parsed into upgrade options accompanying explanatory text. Screenshot above is an early version of the API response test.
+<br><br>
+I studied OpenAI API to work with Unity C#, and implemented formatted instructions and parser to fit GPT-4. Because GPT-4 showed great potential in context analyzing capabilities, I decided to assemble a team and we are now working on a roguelike game with GPT taking over several parts of the game systems towards a playable demo by the end of year.
+
 ## [THE FORSAKEN SCIENCE](https://steamcommunity.com/sharedfiles/filedetails/?id=2949491278) (Portal 2 Map)
 
 <div style="margin-bottom: 0.2rem">
