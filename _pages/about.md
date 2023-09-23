@@ -11,7 +11,7 @@ Hello there! I'm Erwang, a gameplay engineer and technical game designer. As a g
 
 I designed and developed many games in different genres and scales solo or with teams. During my academic career, I had the chance to participate in projects that collaborated with _Microsoft (World's Edge)_ and _Dolby Labs_, and researches which one of them was presented at _GameSoundCon_ 2022.
 
-Here is a introductory video that will help you know me better :) (WIP)
+Here is a introductory video that will help you know me better :)
 
 <div style="max-width: 680px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/VyyoGajyJZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
