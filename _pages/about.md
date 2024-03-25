@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello there! I'm Erwang, a game engineer and technical designer. As a gamer, I love FPS, roguelike, and puzzle games. While as a developer, I have professional developing experience in **C++ (Unreal)/C# (Unity)** and love exploring new technologies and approaches.
+Hello there! I'm Erwang, a game engineer and technical designer. As a gamer, I love FPS, roguelike, and puzzle games. As a developer, I have professional developing experience in **C++ (Unreal)/C# (Unity)** and love exploring new technologies and approaches.
 
 I have experience in **systems, gameplay, and AI programming**, and **system, combat, and level design**. I worked on games and research in different scales, solo or with teams. I worked on an AoE modding project with _Microsoft (World's Edge)_, an Unreal Engine 5 (C++) R&D sound project with _Dolby Labs_, an AI-generated SFX research shown on _GameSoundCon 2022_, and an AI narrative curator research for RPG using OpenAI GPT-4 Turbo.
 
