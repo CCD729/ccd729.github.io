@@ -11,7 +11,7 @@ Hello there! I'm Erwang, a game engineer and technical designer. As a gamer, I l
 
 I have experience in **system, gameplay and AI programming**, and **system, combat, and level design**. I worked on games and researches in different scales, solo or with teams. I worked on an AoE modding project with _Microsoft (World's Edge)_, an UE5 R&D sound project with _Dolby Labs_, an AI-generated SFX research shown on _GameSoundCon 2022_, and an AI narrative curator for RPG using OpenAI GPT-4 Turbo.
 
-**[METAL BEANS]**(https://store.steampowered.com/app/2792960/METAL_BEANS/ "METAL BEANS on Steam") , our latest 3D low-poly roguelite action-arcade game, is coming on Steam on March 25, 2024!
+[**METAL BEANS**](https://store.steampowered.com/app/2792960/METAL_BEANS/ "METAL BEANS on Steam") , our latest 3D low-poly roguelite action-arcade game, is coming on Steam on March 25, 2024!
 
 Here is a introductory video that will help you know me better :)
 
