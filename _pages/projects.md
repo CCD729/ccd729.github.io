@@ -34,6 +34,11 @@ author_profile: true
         <img src="/images/project-screenshot-03-2.png" />
       </a>
     </div>
+    <div style="flex-grow: 1">
+      <a data-fslightbox="gallery03" href="/images/project-screenshot-03-3.png">
+        <img src="/images/project-screenshot-03-3.png" />
+      </a>
+    </div>
   </div>
 </div>
 <p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
