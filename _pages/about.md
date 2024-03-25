@@ -13,7 +13,7 @@ I have experience in **systems, gameplay, and AI programming**, as well as **sys
 
 [**METAL BEANS**](https://store.steampowered.com/app/2792960/METAL_BEANS/ "METAL BEANS on Steam") , our latest 3D low-poly roguelite action-arcade game, is coming on Steam on March 25, 2024!
 
-Here is an introductory video that will help you know me better :)
+Here is an introductory video that will help you know me better :) _(Updating METAL BEANS into the video soon after official release!)_
 
 <div style="max-width: 680px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/VyyoGajyJZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
