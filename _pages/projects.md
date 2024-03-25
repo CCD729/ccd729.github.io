@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 
-## GPT Roguelike Curator
+## [GPT Dungeon Curator](https://drive.google.com/file/d/1Tnx30Yo7MMvfy3T64xcUyCPtr4-YzoBH/view?usp=sharing) (Link to demo video)
 
 <div style="margin-bottom: 0.2rem">
   <style scoped>
@@ -42,9 +42,11 @@ author_profile: true
   </div>
 </div>
 <p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
-A research project exploring the possibilities of large language models as an AI assistant that curates player progression in a roguelike setup based on playstyle instead of traditional randomization. The LLM receives a prompt with historical information like player stats and game state, then returns output which is parsed into upgrade options accompanying explanatory text. Screenshot above is an early version of the API response test.
+This R&D project aimed to explore the potential of large language models as a Game AI assistant in guiding and curating player progression within a dungeon RPG setting. This initiative seeks to replace traditional game UI, which relies heavily on numerical statistics. The LLM receives a prompt with historical information like player stats and game state, then returns output parsed into game instructions, player guidance dialogues, battle information, and other explanatory texts.
 <br><br>
-I studied OpenAI API to work with Unity C#, and implemented formatted instructions and parser to fit GPT-4. Because GPT-4 showed great potential in context analyzing capabilities, I decided to assemble a team and we are now working on a roguelike game with GPT taking over several parts of the game systems towards a playable demo by the end of year.
+I designed and prototyped a basic RPG player stats framework and set up AI prompt standards. Then, I studied OpenAI API and implemented formatted instructions and parser in Unity C# to fit GPT-4 so the AI feedback loop can adapt to battle and exploration situations. 
+<br><br>
+Initially, my focus was on integrating the AI assistant system-wide. However, the team later pivoted towards emphasizing narrative elements after evaluating the capabilities of traditional game AI and weighing the costs associated with AI-generated content. Throughout the trial and error process of testing AI prompts, GPT-4 demonstrated remarkable capabilities in context analysis. I believe this integration pattern can enhance the narrative with AI curation and potentially help increase replayability.
 
 ## [THE FORSAKEN SCIENCE](https://steamcommunity.com/sharedfiles/filedetails/?id=2949491278) (Portal 2 Map)
 
