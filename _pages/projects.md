@@ -6,6 +6,48 @@ author_profile: true
 
 {% include base_path %}
 
+## [METAL BEANS](https://store.steampowered.com/app/2792960/METAL_BEANS/ "METAL BEANS on Steam") (Link to Steam Page)
+
+<div style="margin-bottom: 0.2rem">
+  <style scoped>
+    #img-list {
+      display: flex;
+      gap: 0.5rem;
+      width: 100%;
+    }
+
+    @media (max-width: 924px) {
+      #img-list {
+        flex-wrap: wrap;
+      }
+    }
+  </style>
+  <div id="img-list">
+    <div style="flex-grow: 1">
+      <a data-fslightbox="gallery05" href="/images/project-screenshot-05-1.png">
+        <img src="/images/project-screenshot-05-1.png" />
+      </a>
+    </div>
+    <div style="flex-grow: 1">
+      <a data-fslightbox="gallery05" href="/images/project-screenshot-05-2.png">
+        <img src="/images/project-screenshot-05-2.png" />
+      </a>
+    </div>
+    <div style="flex-grow: 1">
+      <a data-fslightbox="gallery05" href="/images/project-screenshot-05-3.png">
+        <img src="/images/project-screenshot-05-3.png" />
+      </a>
+    </div>
+  </div>
+</div>
+<p style="color: rgb(100, 100, 100); margin-bottom: 0.4rem;">(Click image to expand)</p>
+<div style="max-width: 560px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/hCqIjcY1UaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+A 3D low-poly roguelite action-arcade game where the player controls and upgrades their two desktop buddies to fight through virus creatures and protect the PC in the computer space.
+<br><br>
+As a programmer, I implemented combat system (and player actions with combos and input buffers), enemy AI, all tutorial system including dialogues, and part of sub game mode logic, and UI. Then, I maintained code with version control, expandable infrastructure, bug fixes, and optimization like object pooling and reference/memory management.
+As a technical designer, I designed and prototyped combat features (element, abilities, combos) and enemy types and behavior. Then I drafted the roguelite player/world progression system and partly worked on sub game mode. After that, I handled tutorial and narrative design. 
+<br><br>
+I enjoyed working on this project a lot, and learned tons of stuff during the creative process. With all of our hard works and support from friends and communities, the game went beyond my expectations and we are proudly announcing the release of METAL BEANS on Steam!
 
 ## [GPT Dungeon Curator](https://drive.google.com/file/d/1Tnx30Yo7MMvfy3T64xcUyCPtr4-YzoBH/view?usp=sharing) (Link to demo video)
 
