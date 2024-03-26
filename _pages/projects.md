@@ -44,11 +44,11 @@ author_profile: true
 <div style="max-width: 560px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/hCqIjcY1UaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 A 3D low-poly roguelite action-arcade game where the player controls and upgrades their two desktop buddies to fight through virus creatures and protect the PC in the computer space.
 <br><br>
-As a programmer, I implemented combat system (and player actions with combos and input buffers), enemy AI, all tutorial system including dialogues, and part of sub game mode logic, and UI. Then, I maintained code with version control, expandable infrastructure, bug fixes, and optimization like object pooling and reference/memory management.
+As a programmer, I implemented the combat system (including player actions with combos and input buffers), enemy AI, the entire tutorial system (including dialogues), part of the sub-game mode logic, and UI. Then, I handled code maintenance with version control, expandable infrastructure, bug fixes, and optimizations such as object pooling and reference/memory management.
 <br>
-As a technical designer, I designed and prototyped combat features (element, abilities, combos) and enemy types and behavior. Then I drafted the roguelite player/world progression system and partly worked on sub game mode. After that, I handled tutorial and narrative design. 
+As a technical designer, I designed and prototyped both combat features (elements, abilities, combos) and enemy types and behaviors. Then I drafted the roguelite player/world progression system and partly worked on sub game modes. After that, I handled tutorial and narrative design. 
 <br><br>
-I enjoyed working on this project a lot, and learned tons of stuff during the creative process. With all of our hard works and support from friends and communities, the game went beyond my expectations and we are proudly announcing the release of METAL BEANS on Steam!
+I enjoyed working on this project and learned a lot during the creative process. With all of our hard works and support from friends and communities, the game went beyond my expectations and we are proudly announcing the release of METAL BEANS on Steam!
 
 ## [GPT Dungeon Curator](https://drive.google.com/file/d/1Tnx30Yo7MMvfy3T64xcUyCPtr4-YzoBH/view?usp=sharing) (Link to demo video)
 
