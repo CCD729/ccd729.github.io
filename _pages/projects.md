@@ -45,6 +45,7 @@ author_profile: true
 A 3D low-poly roguelite action-arcade game where the player controls and upgrades their two desktop buddies to fight through virus creatures and protect the PC in the computer space.
 <br><br>
 As a programmer, I implemented combat system (and player actions with combos and input buffers), enemy AI, all tutorial system including dialogues, and part of sub game mode logic, and UI. Then, I maintained code with version control, expandable infrastructure, bug fixes, and optimization like object pooling and reference/memory management.
+<br>
 As a technical designer, I designed and prototyped combat features (element, abilities, combos) and enemy types and behavior. Then I drafted the roguelite player/world progression system and partly worked on sub game mode. After that, I handled tutorial and narrative design. 
 <br><br>
 I enjoyed working on this project a lot, and learned tons of stuff during the creative process. With all of our hard works and support from friends and communities, the game went beyond my expectations and we are proudly announcing the release of METAL BEANS on Steam!
