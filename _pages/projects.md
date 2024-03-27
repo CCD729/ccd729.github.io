@@ -44,7 +44,7 @@ author_profile: true
 <div style="max-width: 560px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/hCqIjcY1UaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 A 3D low-poly roguelite action-arcade game where the player controls and upgrades their two desktop buddies to fight through virus creatures and protect the PC in the computer space.
 <br><br>
-As a programmer, I implemented the combat system (including player actions with combos and input buffers), enemy AI, the entire tutorial system (including dialogues), part of the sub-game mode logic, and UI. Then, I handled code maintenance with version control, expandable infrastructure, bug fixes, and optimizations such as object pooling and reference/memory management.
+As a programmer, I implemented the character controller, combat system (including player actions with combos and input buffers), enemy AI, the entire tutorial system (including dialogues), part of the sub-game mode logic, and UI. Then, I handled code maintenance with version control, expandable infrastructure, bug fixes, and optimizations such as object pooling and reference/memory management.
 <br>
 As a technical designer, I designed and prototyped both combat features (elements, abilities, combos) and enemy types and behaviors. Then I drafted the roguelite player/world progression system and partly worked on sub game modes. After that, I handled tutorial and narrative design. 
 <br><br>
