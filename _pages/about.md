@@ -15,7 +15,7 @@ I have experience in **systems, gameplay, and AI programming**, as well as **sys
 
 Here is an introductory video that will help you know me better :) _(Updating METAL BEANS into the video soon after release!)_
 
-<div style="max-width: 680px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/VyyoGajyJZE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div style="max-width: 680px; margin-bottom: 0.6rem;"><iframe src="https://www.youtube.com/embed/Ui46E8ljEmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 
 For my portfolio and projects, please click [Here](http://ccd729.github.io/projects "CCD729's Projects") 
